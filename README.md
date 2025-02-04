@@ -67,7 +67,12 @@ run_placement
 ![image](https://github.com/user-attachments/assets/92949ef3-45b0-4c83-aad1-2d7eae345d33)
 ![image](https://github.com/user-attachments/assets/a78df9a3-6755-4db0-bad0-f91a0a79e3c2)
 ![image](https://github.com/user-attachments/assets/84359a82-9adf-495e-80db-cc9c7c49a3d8)
+
+Rise transition time calculation
+Rise Transition time =Time taken for output to rise to 80% - Time taken for output to rise to 20%
+
 ![image](https://github.com/user-attachments/assets/1e48bd57-d8cd-4b42-9413-667d2586a515)
+
 ![Screenshot 2025-02-04 170954](https://github.com/user-attachments/assets/d0370da7-e13c-4856-92be-06073a1064c9)
 ![Screenshot 2025-02-04 181016](https://github.com/user-attachments/assets/92eac711-8e49-4c75-83a6-3a43df9338c2)
 
